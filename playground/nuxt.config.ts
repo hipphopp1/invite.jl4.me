@@ -1,4 +1,6 @@
 export default defineNuxtConfig({
+  ssr: false,
+  spaLoadingTemplate: 'public/loading.html',
   devtools: { enabled: true },
   modules: [
     '@nuxt/ui',
@@ -21,7 +23,7 @@ export default defineNuxtConfig({
         class: 'h-full'
       },
       bodyAttrs: {
-        class: 'antialiased bg-gray-50 dark:bg-black min-h-screen',
+        class: 'antialiased bg-gray-50 dark:bg-black min-h-screen'
       }
     }
   },
