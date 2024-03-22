@@ -13,8 +13,8 @@
         <strong>Wo:</strong> Bornstraße 3, 20146 Hamburg
       </p>
       <p class="text-md text-gray-600 dark:text-white mt-2">
-        Seien wir mal ganz ehrlich - 27+1 ist n eigenartiges Thema, z.T. ists etwa +1 zu meinem 27. Bday, zum anderen ein Jahrhundert nach den 1920ern und zumindest die Deko wird in dem Stil!
-        Der Plan sieht teilweise Stehparty, teilweise Pokertisch vor. Da ich verschiedenste Freundesgruppen einlade versuch ich da möglichst zu durchmischen. Und ich würde jeden bitte kostümtechnisch da was Kreatives draus zu machen.
+        Seien wir mal ganz ehrlich - 27+1 ist nen ungewöhnliches Thema, z.T. ists etwa +1 zu meinem 27. Bday, zum anderen ein Jahrhundert nach den 1920ern und zumindest die Deko wird in dem Stil!
+        Der Plan sieht teilweise Stehparty, teilweise Pokertisch vor. Da ich verschiedenste Freundesgruppen einlade, versuche ich, da möglichst zu durchmischen. Und ich würde jeden bitte kostümtechnisch da was Kreatives draus zu machen.
         Ich freue mich, mit euch allen abzufeiern! 🎈
       </p>
       <p class="text-md text-gray-600 dark:text-white mt-2">
