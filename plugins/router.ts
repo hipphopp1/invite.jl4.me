@@ -1,6 +1,8 @@
 import { defineNuxtPlugin } from '#app'
 
 export default defineNuxtPlugin((that: any) => {
+  document.getElementsByTagName('html')[0].classList.remove('light');
+  document.getElementsByTagName('html')[0].classList.add('dark');
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   that.$router.options.scrollBehavior = (to: {hash: any }, from: any, savedPosition: any) => {
     if (to.hash) {

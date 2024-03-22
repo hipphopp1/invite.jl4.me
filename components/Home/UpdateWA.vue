@@ -1,6 +1,7 @@
 <template>
   <div
     v-if="links.length"
+    id="whatsapp"
     class="whatsapp p-4 rounded shadow flex flex-col items-center justify-center"
   >
     <h2 class="text-2xl font-semibold mb-4 text-center dark:bg-gradient-to-r dark:from-gold-100 dark:via-gold-300 dark:to-gold-500 dark:bg-clip-text dark:text-transparent dark:text-title">
