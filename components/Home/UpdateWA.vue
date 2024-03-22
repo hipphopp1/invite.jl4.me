@@ -18,7 +18,7 @@
       </p>
     </div>
     <div
-      class="whatsapp p-4 rounded shadow flex flex-col items-center justify-center"
+      class="whatsapp p-4 rounded flex flex-col items-center justify-center"
     >
       <NuxtLink
         :to="links[0].url"
