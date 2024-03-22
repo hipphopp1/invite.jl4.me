@@ -1,0 +1,67 @@
+<svg id="lines" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        stroke: #e2bd6c;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        stroke: #dcb997;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="1111" y="548.125" width="99.41" height="98.875" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#dcb997"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="1120.59" y="538" width="99.41" height="98.875" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#dcb997"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-1110.5 -537.5)" style="fill: none; filter: url(#filter)">
+    <path id="Фигура_2" data-name="Фигура 2" class="cls-1" d="M1210.42,549.132h-98.41V647" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1110.5 -537.5)" xlink:href="#Фигура_2" style="stroke: #e2bd6c; filter: none; fill: none"/>
+  <g transform="translate(-1110.5 -537.5)" style="fill: none; filter: url(#filter-2)">
+    <path id="Фигура_1_" data-name="Фигура 1 " class="cls-2" d="M1220.01,539H1121.6v97.867" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1110.5 -537.5)" xlink:href="#Фигура_1_" style="stroke: #dcb997; filter: none; fill: none"/>
+</svg>
