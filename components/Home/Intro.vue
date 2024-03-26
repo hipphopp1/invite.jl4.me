@@ -18,7 +18,10 @@
         Ich freue mich, mit euch allen abzufeiern! 🎈
       </p>
       <p class="text-md text-gray-600 dark:text-white mt-2">
-        Bei einer +1 Party sind eure +1s natürlich auch mega willkommen!  Ich freu mich auf eine unvergessliche Nacht mit euch allen! 🌟
+        Bei einer +1 Party sind eure +1s natürlich auch willkommen! Ich freu mich auf eine unvergessliche Nacht mit euch allen! 🌟
+      </p>
+      <p class="text-md text-gray-600 dark:text-white mt-2">
+        Für alle, die etwas weiter daher kommen würden: Ich hab eingeladen, wer mir wichtig ist und bei wem ich mich freue, wenn ihr mit dabei wäret. Nicht, bei wem es zwangsläufig realistisch ist. Ich kann auch leider keine Schlafgelegenheit anbieten, ihr müsstet euch also ggf. selbst organisieren. Gebt einfach bescheid, falls ihr dabei was braucht. :)
       </p>
     </div>
   </div>
@@ -28,6 +31,9 @@
 useSeoMeta({
   title: '27+1 Party Einladung',
   description: 'Einladung zur 27+1 Party am 20. April 2024 in Hamburg. Ein Abend, der das Leben feiert, mit Kostümen, die Kreativität und Gemeinschaft fördern.',
+  meta: [
+    { name: 'robots', content: 'noindex, nofollow' }
+  ]
 })
 </script>
 

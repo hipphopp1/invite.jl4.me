@@ -73,13 +73,13 @@ const items = [
     path: '#calendar-entry',
     icon: 'solar:calendar-add-bold',
     target: '_blank'
-  }
+  },
   // { name: 'Lab', path: '/lab', icon: 'heroicons:beaker' },
-  // {
-  //   name: "What's in my bag?",
-  //   path: '/whats-in-my-bag',
-  //   icon: 'solar:backpack-outline',
-  // },
+  {
+    name: "Spotify Playlist",
+    path: '/playlist',
+    icon: 'ri:spotify-fill',
+  }
   // {
   //   name: 'Bookmarks',
   //   path: '/bookmarks',
